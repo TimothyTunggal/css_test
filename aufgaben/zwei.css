@@ -1,0 +1,15 @@
+.ungerade {
+    color: black;
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+  }
+#idausprobieren{
+    color: blue;
+    font-size: 36px;
+  }
+#idzweiausprobieren{
+    color: black;
+    background-color: green;
+    font-size: 36px;
+    font-weight: bold;
+  }
