@@ -1,0 +1,12 @@
+.erstes {
+    color: white;
+    background-color: black;
+  }
+.zweites{
+    color: black;
+    background-color: yellow;
+  }
+.beides{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 90px;
+  }
